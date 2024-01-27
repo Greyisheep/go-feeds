@@ -1,2 +1,2 @@
 # go-feeds
-A web server that gives a json response of supported dev.to feeds related to Go
+A web server that gives a json response of supported dev.to xml feeds related to Go
